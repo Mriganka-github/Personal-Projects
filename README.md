@@ -7,23 +7,35 @@ Explain the methodology adopted to perform text analysis to drive sentimental op
 
 # Table of Contents
 
-1	 *Sentimental Analysis	*
+1	 Sentimental Analysis	
+
 1.1	 Cleaning using Stop Words Lists	
+
 1.2	 Creating dictionary of Positive and Negative words	
+
 1.3	 Extracting Derived variables	
+
 2	 Analysis of Readability	
+
 3	 Average Number of Words Per Sentence	
+
 4	 Complex Word Count	
+
 5	 Word Count	
+
 6	 Syllable Count Per Word	
-7	 Personal Pronouns	
+
+7	 Personal Pronouns
+
 8	 Average Word Length 
 
 1.	Sentimental Analysis
 
 Sentimental analysis is the process of determining whether a piece of writing is positive, negative, or neutral. The below Algorithm is designed for use in Financial Texts. It consists of steps:
+
 1.1.	Cleaning using Stop Words Lists
 The Stop Words Lists (found in the folder StopWords) are used to clean the text so that Sentiment Analysis can be performed by excluding the words found in Stop Words List. 
+
 1.2.	Creating a dictionary of Positive and Negative words
 The Master Dictionary (found in the folder MasterDictionary) is used for creating a dictionary of Positive and Negative words. We add only those words in the dictionary if they are not found in the Stop Words Lists. 
 1.3.	Extracting Derived variables
