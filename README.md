@@ -1,2 +1,2 @@
-# Personal-Projects
-Attached are some of my individual projects that I have solved to gain mastery over some ML topics
+# Text Analysis
+Scraped texts from multiple urls and computed various metrics
