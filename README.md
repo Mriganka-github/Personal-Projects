@@ -7,7 +7,7 @@ Explain the methodology adopted to perform text analysis to drive sentimental op
 
 # Table of Contents
 
-1	 **Sentimental Analysis	
+1	 *Sentimental Analysis	*
 1.1	 Cleaning using Stop Words Lists	
 1.2	 Creating dictionary of Positive and Negative words	
 1.3	 Extracting Derived variables	
@@ -17,7 +17,7 @@ Explain the methodology adopted to perform text analysis to drive sentimental op
 5	 Word Count	
 6	 Syllable Count Per Word	
 7	 Personal Pronouns	
-8	 Average Word Length	
+8	 Average Word Length 
 
 1.	Sentimental Analysis
 
