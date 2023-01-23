@@ -7,7 +7,7 @@ Explain the methodology adopted to perform text analysis to drive sentimental op
 
 # Table of Contents
 
-1	 Sentimental Analysis	
+1	 **Sentimental Analysis	
 1.1	 Cleaning using Stop Words Lists	
 1.2	 Creating dictionary of Positive and Negative words	
 1.3	 Extracting Derived variables	
